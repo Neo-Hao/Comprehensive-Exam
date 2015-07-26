@@ -29,7 +29,7 @@ Sample Input and Output:
 
 ### Project 3: BlackJack
 
-This program creates a 21-point game. For detailed information, please click <a href="http://cobweb.cs.uga.edu/~cs1301/files/Spring2015Project05/Project5_Instructions.pdf">here</a>.
+This program creates a 21-point game. For detailed information, please click <a href="https://github.com/Neo-Hao/Comprehensive-Exam/blob/master/BlackJack.pdf">here</a>.
 
 #### Figure 5. Sample interface, input and output of the program
 ![figure 5](figure/project3-1.JPG)
