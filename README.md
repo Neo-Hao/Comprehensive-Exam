@@ -1,7 +1,10 @@
-Comprehensive Exam Sample Programming Projects
-===============================================
+# Automatic Help-Seeking Faciliator of Computer Science students
 
-This repo includes three finished sample programming porjects.
+This repo served for the Comprehensive Examination Project of Neo Hao: http://home.tobeneo.com/Comprehensive-Intro/
+
+For a brief introduction of the project, see https://github.com/Neo-Hao/Comprehensive-Intro
+
+Specifically, this repo hosts the codes for three sample problems presented at http://home.tobeneo.com/Comprehensive-Sample1/
 
 ### Project 1: StarGraph
 
